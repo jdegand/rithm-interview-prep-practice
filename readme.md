@@ -513,9 +513,9 @@ Credit - https://www.codewars.com/kata/are-we-alternate
 
 ## Useful Resources
 
-- [Stack Overflow](https://stackoverflow.com/questions/54984764/javascripts-object-get-only-the-first-key-of-an-object)
-- [Stack Overflow](https://stackoverflow.com/questions/5467129/sort-javascript-object-by-key)
-- [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-get-the-last-item-of-javascript-object/)
-- [Stack Overflow](https://stackoverflow.com/questions/5612787/converting-an-object-to-a-string)
-- [Stack Overflow](https://stackoverflow.com/questions/41754839/javascript-filter-that-stops-at-the-first-result)
-- [Stack Overflow](https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array)
+- [Stack Overflow](https://stackoverflow.com/questions/54984764/javascripts-object-get-only-the-first-key-of-an-object) - get only first key of an object
+- [Stack Overflow](https://stackoverflow.com/questions/5467129/sort-javascript-object-by-key) - sort object by key
+- [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-get-the-last-item-of-javascript-object/) - last item object
+- [Stack Overflow](https://stackoverflow.com/questions/5612787/converting-an-object-to-a-string) - object to string
+- [Stack Overflow](https://stackoverflow.com/questions/41754839/javascript-filter-that-stops-at-the-first-result) - filter that stops at first result
+- [Stack Overflow](https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array) - remove specific item from an array
