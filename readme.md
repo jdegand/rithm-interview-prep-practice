@@ -1,5 +1,7 @@
 # Rithm Interview Prep Practice
 
+![](rithm-school-interview-prep.png)
+
 ## Directions
 
 ### appendToString
