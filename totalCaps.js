@@ -2,12 +2,12 @@
 function totalCaps(arr) {
     let regex = /[A-Z]/g;
     let count = 0;
-    for (let i = 0; i < arr.length; i++) {
-        arr[i].split('').forEach(el => {
-            if (el.match(regex)) {
-                count++
+    for (let str of arr) {
+        for (let char of str) {
+            if (char.match(regex)) {
+                count++;
             }
-        })
+        }
     }
-    return count
+    return count;
 }
