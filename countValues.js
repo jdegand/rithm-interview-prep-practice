@@ -1,10 +1,10 @@
 // add whatever parameters you deem necessary - good luck!
-function countValues(arr, value){
-    let count = 0;
-    for(let i = 0; i < arr.length; i++){
-      if(arr[i] === value) {
-        count++
+function countValues(arr, value) {
+  let count = 0;
+  for (const element of arr) {
+      if (element === value) {
+          count++;
       }
-    }
-    return count
+  }
+  return count;
 }
