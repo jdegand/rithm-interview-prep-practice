@@ -1,6 +1,6 @@
 // multiple loops
 function separate(arr) {
-  var newArr = [];
+  let newArr = [];
   for(let val of arr){
     if(val === "cat"){
       newArr.push("cat")
